@@ -9,6 +9,13 @@ Caderno temático desenvolvido no NotebookLM para explorar a trajetória, discog
 ## 🧠 Por que Frank Ocean?
 
 ## 📚 Curadoria de fontes
+| Fonte                                                                                                                                              | Utilização                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [Biography.com — Frank Ocean](https://www.biography.com/musicians/frank-ocean)                                                                     | Biografia, infância, trajetória e acontecimentos pessoais     |
+| [AllMusic — Frank Ocean](https://www.allmusic.com/artist/frank-ocean-mn0002592086)                                                                 | Discografia, carreira, estilo musical e créditos              |
+| [GRAMMY — Frank Ocean](https://www.grammy.com/artists/frank-ocean/15669)                                                                           | Prêmios, indicações e reconhecimento da indústria             |
+| [Rolling Stone — Frank Ocean e Coachella](https://au.rollingstone.com/music/music-news/frank-ocean-cancels-coachella-headliner-weekend-two-46763/) | Performance e controvérsias do Coachella 2023                 |
+| [Shazam — I Miss You / Beyoncé](https://www.shazam.com/en-us/song/626205220/i-miss-you)                                                            | Créditos e participação de Frank Ocean na composição e vocais |
 
 ## 🤖 Uso do NotebookLM
 
